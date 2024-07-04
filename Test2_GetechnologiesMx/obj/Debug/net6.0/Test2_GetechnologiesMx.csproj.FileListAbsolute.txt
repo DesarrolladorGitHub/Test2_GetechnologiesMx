@@ -1,0 +1,13 @@
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\bin\Debug\net6.0\Test2_GetechnologiesMx.deps.json
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\bin\Debug\net6.0\Test2_GetechnologiesMx.dll
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\bin\Debug\net6.0\Test2_GetechnologiesMx.pdb
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.csproj.AssemblyReference.cache
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.AssemblyInfoInputs.cache
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.AssemblyInfo.cs
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.csproj.CoreCompileInputs.cache
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.dll
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\refint\Test2_GetechnologiesMx.dll
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\Test2_GetechnologiesMx.pdb
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\obj\Debug\net6.0\ref\Test2_GetechnologiesMx.dll
+C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\bin\Debug\net6.0\log4net.config

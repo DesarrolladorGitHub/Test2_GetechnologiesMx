@@ -1,0 +1,11 @@
+INFO  12:19:03 Iniciando las actualizaciones al monitor...
+ERROR 12:19:03 System.ArgumentException: The path is empty. (Parameter 'path')
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.Enumeration.FileSystemEnumerator`1..ctor(String directory, Boolean isNormalized, EnumerationOptions options)
+   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+   at System.IO.Enumeration.FileSystemEnumerableFactory.UserFiles(String directory, String expression, EnumerationOptions options)
+   at System.IO.Directory.InternalEnumeratePaths(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+   at System.IO.Directory.EnumerateFiles(String path, String searchPattern, SearchOption searchOption)
+   at Sample.FileUpdater.UpdateFiles(String sourceFolder, String targetFolder, String backupDir) in C:\Proyectos\Test2_GetechnologiesMx\Test2_GetechnologiesMx\FileUpdaterSample.cs:line 138
+INFO  12:19:03 Realizando rollback de las actualizaciones al monitor...
+INFO  12:19:03 Terminado rollback de las actualizaciones al monitor...
